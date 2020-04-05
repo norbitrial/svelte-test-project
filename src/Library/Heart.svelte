@@ -1,0 +1,1 @@
+<span role="img" aria-label="favorite">❤️</span>
