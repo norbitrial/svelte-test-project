@@ -1,6 +1,7 @@
 <script>
     import BookCover from './BookCover';
     import Heart from './Heart';
+
     export let books = [];
 
     console.log(books);

@@ -1,0 +1,8 @@
+{
+    "books": [
+        {"id": 1, "title": "Book 1", "author": "author 1", "cover": "", "about": "random book 1", "favorite": true},
+        {"id": 2, "title": "Book 2", "author": "author 2", "cover": "", "about": "random book 2", "favorite": false},
+        {"id": 3, "title": "Book 3", "author": "author 3", "cover": "", "about": "random book 3", "favorite": true},
+        {"id": 4, "title": "Book 4", "author": "author 4", "cover": "", "about": "random book 4", "favorite": false}
+    ]
+}
